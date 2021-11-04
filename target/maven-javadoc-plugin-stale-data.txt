@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/Extrap7/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/Extrap7/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Extrap7 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/Extrap7/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Extrap7 1.0-SNAPSHOT API'
+com.mycompany.extrap7
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/Extrap7/src/main/java/com/mycompany/extrap7/Animal.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/Extrap7/src/main/java/com/mycompany/extrap7/AnimalAcuatico.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/Extrap7/src/main/java/com/mycompany/extrap7/AnimalAereo.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/Extrap7/src/main/java/com/mycompany/extrap7/AnimalTerrestre.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/Extrap7/src/main/java/com/mycompany/extrap7/Ballena.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/Extrap7/src/main/java/com/mycompany/extrap7/Main.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/Extrap7/src/main/java/com/mycompany/extrap7/Pajaro.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/Extrap7/src/main/java/com/mycompany/extrap7/Perro.java'
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\src\main\java = 1635999718761
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\target\site\apidocs\allclasses-frame.html = 1636010154649
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\target\site\apidocs\allclasses-noframe.html = 1636010154649
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\target\site\apidocs\constant-values.html = 1636010154485
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\target\site\apidocs\deprecated-list.html = 1636010154642
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\target\site\apidocs\help-doc.html = 1636010154649
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\target\site\apidocs\index-all.html = 1636010154636
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\target\site\apidocs\index.html = 1636010154649
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\target\site\apidocs\overview-tree.html = 1636010154619
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\target\site\apidocs\package-list = 1636010154460
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\target\site\apidocs\script.js = 1636010154649
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\Extrap7\target\site\apidocs\stylesheet.css = 1636010154649
